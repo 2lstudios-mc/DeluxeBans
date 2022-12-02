@@ -3,18 +3,18 @@
     
     <!-- Project information -->
     <groupId>dev._2lstudios</groupId>
-    <artifactId>ExamplePlugin</artifactId>
+    <artifactId>DeluxeBans</artifactId>
     <packaging>jar</packaging>
 
     <!-- Plugin Information -->
-    <name>ExamplePlugin</name>
+    <name>DeluxeBans</name>
     <description>This is just an example plugin</description>
     <version>0.0.1</version>
     <url>https://github.com/2lstudios-mc/bukkit-boilerplate</url>
 
     <properties>
         <author>2LStudios</author>
-        <mainClass>dev._2lstudios.example.ExamplePlugin</mainClass>
+        <mainClass>dev._2lstudios.deluxebans.plugin.DeluxeBansPlugin</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

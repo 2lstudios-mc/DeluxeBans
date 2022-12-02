@@ -1,3 +1,3 @@
-# Bukkit Boilerplate
+# DeluxeBans
 
-Sample project to create Plugins for Bukkit.
+Simple and advanced plugin to manage bans.

@@ -5,6 +5,15 @@ main: ${mainClass}
 version: ${version}
 url: ${url}
 commands:
-  example:
-    aliases: ["ex"]
-    description: "This is an example plugin."
+  ban:
+    description: "Use this command to ban a player"
+    usage: /ban <player> <reason> <time>
+  unban:
+    description: "Use this command to unban a player"
+    usage: /unban <player>
+  history:
+    description: "Show the punishes received by this player"
+    usage: /history <player>
+  staffhistory:
+    description: "Show the punishes done by this player"
+    usage: /staffhistory <player>
